@@ -1,0 +1,53 @@
+Introduction - Prise en main de R
+   Objectifs:
+	Savoir installer R.
+	Savoir installer l’environnement RStudio et en connaître les principaux aspects.
+    	Savoir installer un package.
+   1. Introduction
+      Qu'est ce que R
+      Pourquoi R
+   2. Installer R
+   3. Utiliser R
+   4. Interface utilisateurs
+
+R manipule des objets
+  1. Les objets dans R
+  2. Les vecteurs
+  3. les matrices
+  4. les facteurs
+  5. les listes
+  6. les dta-frames
+
+Manipulation de jeux de données
+   Objectifs:
+	Savoir se placer dans un répertoire de travail.
+    	Savoir importer un jeu de données statistiques avec R.
+    	Savoir manipuler ce jeu de données : gérer les variables et les individus.
+    	Etre capable d’extraire un sous ensemble de données.
+
+   1. Importation d'un jeu de données
+   2. Manipulation d'un jeu de données
+      2.1 Editer, accéder à un individu
+      2.2 Extraire un sous-ensemble de donnés
+      2.3 Manipuler les données avant le traitement statistique
+   3. Sauvegarder des données ou des résultats
+
+Programmer avec R
+    1. Expressions conditionnelles
+    2. Les boucles for et la condition while
+    3. Boucles implicites
+    4. les fonctions
+
+Représentation graphique
+    1. les graphiques de bases
+    2. Ajout à un graphique
+    3. Représentation d'une distribution
+    4. Personnalisation des graphiques
+    5. Graphiques en plusieurs dimensions
+    6. Package ggplot2
+
+Exploiter le parallélisme des architectures avec R
+    1. Généralités sur le parallélisme
+    2. Performances avec R
+    3. Calcul parallèle avec R
+      
